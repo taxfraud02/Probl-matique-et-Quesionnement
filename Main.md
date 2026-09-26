@@ -4,19 +4,19 @@ Adoptant une approche bourdieusienne, nous mettrons en évidence l'habitus et l'
 Par ailleurs, dans le cadre d'une approche prosopographique, nous collecterons systématiquement les caractéristiques des agents afin de mettre en évidence des profils biographiques et d'activité.
 
 # Questions de recherche
-- Quelle formation ont-iels suivi? Ont-iels eu l'opportunité d'être formé dans un atelier? 
-- Quel était leur capital social et culturel? Les peintres venaient-ils d'un milieu bourgeois ou plutôt modeste? Quel était la formation de leurs parents?
-- Quel a été leur niveau de succès? L'ont-ils rencontré durant leur vivant ou a-t-il été introduit post-hume?
-- Quelles relations entretenaient-iels avec les peintres issus d'autres mouvements?
+- Quelle formation ont-ils.elles suivi? Ont-ils.elles eu l'opportunité d'être formé dans une école? Si non, ont-ils.elles été formé.e.s par un mentor, un parent ou en autodidacte?
+- Quel était leur capital social et culturel? Les peintres venaient-ils d'un milieu bourgeois ou plutôt modeste? Quel était la formation et la profession de leurs parents?
+- Quel a été leur niveau de succès? L'ont-ils.elles rencontré durant leur vivant ou a-t-il débuté post-hume?
+- Quelles relations entretenaient-ils.elles avec les peintres issus d'autres mouvements? Quelle était leur réputation au sein du milieu artistique?
 
 # Matériel à récolter
 - Formation
-- Enseignement
+- Enseignement reçu
 - Origine sociale et situation professionnelle des parents
 - Fortune familiale et personnelle
 - Hobbies/activités en dehors de la peinture
 - Réputation (presse, réseau de connaissance)
-- Succès (exposition au Salon, vente de tableaux, presse)
+- Succès (exposition au Salon, vente de tableaux)
     
 # Listes
 Réalisme (peinture)
