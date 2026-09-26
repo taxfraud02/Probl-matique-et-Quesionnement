@@ -21,7 +21,9 @@ Par ailleurs, dans le cadre d'une approche prosopographique, nous collecterons s
 # Listes
 Réalisme (peinture)
 <https://fr.wikipedia.org/wiki/R%C3%A9alisme_(peinture)#Le_Salon_des_refus%C3%A9s>
+
 Salon des Refusés
 <https://fr.wikipedia.org/wiki/Salon_des_refus%C3%A9s>
+
 Liste peintres réalistes français
 <https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Peintre_r%C3%A9aliste_fran%C3%A7ais>
